@@ -1,0 +1,3 @@
+com\eda\basedomains\BaseDomainsApplication.class
+com\eda\basedomains\dto\OrderEvent.class
+com\eda\basedomains\dto\Order.class
